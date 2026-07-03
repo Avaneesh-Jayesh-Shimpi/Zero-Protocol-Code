@@ -110,4 +110,4 @@ As with most Unreal projects, the Blueprint subclasses, meshes, animations, mate
 _Add gameplay screenshots or a short clip here — the crown effect, an elimination, or a team fight are good candidates._
 
 ## License
-_Add your license here._
+All rights reserved. Shared for portfolio purposes only.
