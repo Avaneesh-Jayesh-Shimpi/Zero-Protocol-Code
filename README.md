@@ -9,8 +9,7 @@ A multiplayer third-person shooter built with **Unreal Engine 5** and **C++**, f
 - [Gameplay Features](#gameplay-features)
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
-- [Getting Started](#getting-started)
-- [Screenshots](#screenshots)
+- [Game Download Link](#Game-Download-Link)
 - [License](#license)
 
 ## Overview
@@ -98,16 +97,8 @@ ZeroProtocol is a competitive multiplayer shooter where players fight it out acr
 - Visual Studio 2022 (Windows) or Xcode (macOS) with the Unreal C++ toolchain
 - An Online Subsystem plugin (e.g. Steam or EOS) wired up through the project's `MultiplayerSessionsSubsystem`
 
-### Build
-1. Clone the repository.
-2. Right-click the `.uproject` file and choose *Generate Visual Studio project files* (or the platform equivalent).
-3. Open the generated solution and build, or open the `.uproject` directly and let the editor compile.
-4. Confirm your map assets match the paths `ALobbyGameMode` travels to (`/Game/Maps/BlasterMap` for free-for-all, `/Game/Maps/TeamsMap` for team matches) — rename either side if yours differ.
-
-As with most Unreal projects, the Blueprint subclasses, meshes, animations, materials, and input assets that extend these C++ base classes live in the project's `Content/` folder — make sure that's included (or tracked via Git LFS) alongside this source for the project to run.
-
-## Screenshots
-_Add gameplay screenshots or a short clip here — the crown effect, an elimination, or a team fight are good candidates._
+## Game Download Link
+https://drive.google.com/file/d/1_Bl1F8d6G-uNjboDUplh_ORvfZkaL4H0/view?usp=sharing
 
 ## License
 All rights reserved. Shared for portfolio purposes only.
