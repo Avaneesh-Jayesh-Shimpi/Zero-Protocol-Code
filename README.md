@@ -94,7 +94,7 @@ ZeroProtocol is a competitive multiplayer shooter where players fight it out acr
 ## Getting Started
 
 ### Requirements
-- Unreal Engine 5.x
+- Unreal Engine 5.7
 - Visual Studio 2022 (Windows) or Xcode (macOS) with the Unreal C++ toolchain
 - An Online Subsystem plugin (e.g. Steam or EOS) wired up through the project's `MultiplayerSessionsSubsystem`
 
