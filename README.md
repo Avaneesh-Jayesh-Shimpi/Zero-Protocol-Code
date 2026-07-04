@@ -100,12 +100,6 @@ ZeroProtocol is a competitive multiplayer shooter where players fight it out acr
 
 ## Multiplayer Setup Guide
 -Follow these steps to play multiplayer with friends:
--Open Steam and go to Settings.
--Navigate to Downloads.
--Set the Download Region to the same region for all players. Players with different download regions may not be able to discover the same lobby.
--Launch the game.
--One player should Host a multiplayer server.
--Other players should click Join and connect to the host's lobby.
 
 ## Game Download Link
 https://drive.google.com/file/d/1_Bl1F8d6G-uNjboDUplh_ORvfZkaL4H0/view?usp=sharing
