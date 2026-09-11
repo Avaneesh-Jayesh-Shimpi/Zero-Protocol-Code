@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29624305/README.md)
 # ZeroProtocol
 
 A multiplayer third-person shooter built with **Unreal Engine 5** and **C++**, featuring server-authoritative networked combat, per-bone server-side rewind lag compensation, and both free-for-all and team-based game modes.
@@ -16,6 +15,10 @@ A multiplayer third-person shooter built with **Unreal Engine 5** and **C++**, f
 ## Overview
 
 ZeroProtocol is a competitive multiplayer shooter where players fight it out across free-for-all and team deathmatch modes, picking up weapons and power-ups scattered around the map. Combat is server-authoritative from the ground up — hit registration, damage, ammo, and match state are all validated on the server, with client-side prediction and lag compensation layered on top to keep the game feeling responsive over the network.
+![ZeroProtocol gameplay screenshot](images/zero-protocol-gameplay-01.png)
+![ZeroProtocol gameplay screenshot](images/zero-protocol-gameplay-02.png)
+![ZeroProtocol gameplay screenshot](images/zero-protocol-gameplay-03.png)
+![ZeroProtocol gameplay screenshot](images/zero-protocol-gameplay-04.png)
 
 ## Highlights
 
