@@ -63,7 +63,7 @@ ZeroProtocol is a competitive multiplayer shooter where players fight it out acr
 
 ### Game Modes & Match Flow
 - Shared warmup → in-progress → cooldown → restart state machine (`ABlockGameMode`), with countdown HUD and mid-game join catch-up
-- Free-for-all scoring with a tracked leaderboard and a "current leader" crown effect (supports ties)
+- `Free-for-all` scoring with a tracked leaderboard and a "current leader" crown effect (supports ties)
 - `ATeamGameMode` adds automatic team balancing on join and at match start, team score tracking, and friendly-fire prevention — though self-damage from your own explosives still applies
 - `ALobbyGameMode` seamlessly travels the session to the correct map once it reaches its target player count, branching on free-for-all vs. team match type
 
